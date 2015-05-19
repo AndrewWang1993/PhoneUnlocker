@@ -2,11 +2,13 @@
     xmlns:tools="http://schemas.android.com/tools"
     android:layout_width="match_parent"
     android:layout_height="match_parent"
+    android:background="@drawable/pic2"
     android:paddingBottom="@dimen/activity_vertical_margin"
     android:paddingLeft="@dimen/activity_horizontal_margin"
     android:paddingRight="@dimen/activity_horizontal_margin"
-    android:background="#111"
     android:paddingTop="@dimen/activity_vertical_margin"
+    android:scaleX="1.6"
+    android:scaleY="1"
     tools:context=".MainActivity">
 
     <whunf.unlockscreenbypath.Unlock
